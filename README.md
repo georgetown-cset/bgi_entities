@@ -6,7 +6,7 @@ This [table](https://github.com/georgetown-cset/bgi_entities/blob/0eaea73ff6207f
 - BGI Genomics’ annual and semi-annual reports (年半年度报告 and 年年度报告) from 2019 through 2022.
 - The 2022 Prospectus of MGI Tech (深圳华大智造科技股份有限公司), a major affiliate of BGI Genomics which went public on the Shanghai stock exchange on September 9th 2022 (SHA: 688114).   
 - Corporate press releases, searching the Refinitiv database of corporate entities, and Baidu searches (the primary Chinese search engine). 
-All together, we identified 437 corporations, research institutions, branches, and banks related to the BGI corporate family. 
+All together, we identified 445 corporations, research institutions, branches, and banks related to the BGI corporate family. 
 
 ## Column Names
 
