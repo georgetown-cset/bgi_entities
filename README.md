@@ -1,6 +1,6 @@
 # BGI Entities
 
-This repository contains a list of BGI-related entities CSET identified in preparing our report [China, Biotechnology and BGI: How China's Hybrid Economy Skews Competition](https://cset.georgetown.edu/article/UPDATE-ME/).
+This repository contains a list of BGI-related entities CSET identified in preparing our report [China, Biotechnology and BGI: How China's Hybrid Economy Skews Competition](https://cset.georgetown.edu/publication/china-biotechnology-and-bgi/).
 
 This [table](https://github.com/georgetown-cset/bgi_entities/blob/0eaea73ff6207f3fc5058f93b9fc4abbe81bf127/BGI_Entity_List.csv) summarizes all the entities (corporations, institutions, branches, and financial organizations, etc) that we were able to identify having a relation to BGI and MGI.  This list is based our review and analysis of
 - BGI Genomics’ annual and semi-annual reports (年半年度报告 and 年年度报告) from 2019 through 2022.
